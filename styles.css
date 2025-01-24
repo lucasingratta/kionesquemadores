@@ -82,6 +82,8 @@ header a:hover{
     color: white;
     position: relative;
 }
+
+
 video{
     position: absolute;
     top: auto%;
@@ -113,18 +115,14 @@ video{
         justify-content: space-between;
         padding-right: 20px;
     }
-
 header nav{
     flex-direction: row;
     padding-bottom: 0;
 }
-
 }
 
 @media (min-width: 1200px){
     #caracteristicas{
         background-position-x: calc(100vw - 800px);
     }
-
 }
-
